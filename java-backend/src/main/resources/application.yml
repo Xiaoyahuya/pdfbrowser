@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: pdfbrowser-server
+  servlet:
+    multipart:
+      max-file-size: ${PDFBROWSER_MAX_UPLOAD_BYTES:104857600}
+      max-request-size: ${PDFBROWSER_MAX_UPLOAD_BYTES:104857600}
+server:
+  port: ${PORT:8082}
+app:
+  account:
+    htpasswd-file: ${PDFBROWSER_HTPASSWD_FILE:/etc/nginx/pdfbrowser-auth/htpasswd}
+    bcrypt-strength: ${PDFBROWSER_BCRYPT_STRENGTH:12}
+  files:
+    root: ${PDFBROWSER_ROOT:${user.home}/pdfbrowser-files}
+    max-markdown-bytes: ${PDFBROWSER_MAX_MARKDOWN_BYTES:2097152}
+    read-only: ${PDFBROWSER_READ_ONLY:true}
+    max-upload-bytes: ${PDFBROWSER_MAX_UPLOAD_BYTES:104857600}
+    search-max-depth: ${PDFBROWSER_SEARCH_MAX_DEPTH:8}
+    search-max-results: ${PDFBROWSER_SEARCH_MAX_RESULTS:200}
+  nas:
+    enabled: ${PDFBROWSER_NAS_ENABLED:true}
+    runtime-directory: ${PDFBROWSER_NAS_RUNTIME:/home/lfp/pdfbrowser/nas-runtime}
+    credential-key: ${PDFBROWSER_NAS_CREDENTIAL_KEY:}
+    rclone-executable: ${PDFBROWSER_RCLONE:/usr/bin/rclone}
+    fusermount-executable: ${PDFBROWSER_FUSERMOUNT:/usr/bin/fusermount3}
+    mountpoint-executable: ${PDFBROWSER_MOUNTPOINT:/usr/bin/mountpoint}
+    allow-public-hosts: ${PDFBROWSER_NAS_ALLOW_PUBLIC_HOSTS:false}
+    mount-timeout-seconds: ${PDFBROWSER_NAS_MOUNT_TIMEOUT_SECONDS:20}
+    socks-proxy-host: ${PDFBROWSER_NAS_SOCKS_HOST:127.0.0.1}
+    socks-proxy-port: ${PDFBROWSER_NAS_SOCKS_PORT:7897}

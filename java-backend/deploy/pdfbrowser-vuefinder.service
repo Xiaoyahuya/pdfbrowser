@@ -1,0 +1,33 @@
+[Unit]
+Description=PDF and Markdown Browser (Vue + Spring Boot)
+Wants=network-online.target
+Requires=rclone-google-drive.service
+After=network-online.target rclone-google-drive.service
+
+[Service]
+Type=simple
+User=lfp
+Group=lfp
+WorkingDirectory=/home/lfp/pdfbrowser/java-backend/deploy
+EnvironmentFile=/home/lfp/pdfbrowser/java-backend/deploy/pdfbrowser.env
+ExecStart=/usr/bin/java -Xms128m -Xmx512m -XX:+ExitOnOutOfMemoryError -jar /home/lfp/pdfbrowser/java-backend/deploy/pdfbrowser-server.jar
+SuccessExitStatus=143
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+NoNewPrivileges=false
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/lfp/pdfbrowser/nas-runtime /etc/nginx/pdfbrowser-auth
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+CapabilityBoundingSet=CAP_SYS_ADMIN CAP_SETUID CAP_SETGID CAP_DAC_OVERRIDE
+LockPersonality=true
+UMask=0077
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,41 @@
+[Unit]
+Description=Read-only Google Drive mount for PDF Browser
+Wants=network-online.target mihomo-rclone.service
+After=network-online.target mihomo-rclone.service
+Before=pdfbrowser-vuefinder.service
+ConditionPathExists=/home/lfp/.config/rclone/rclone.conf
+
+[Service]
+Type=notify
+User=lfp
+Group=lfp
+EnvironmentFile=-/home/lfp/pdfbrowser/java-backend/deploy/rclone-proxy.env
+ExecStart=/usr/bin/rclone mount gdrive: /home/lfp/pdfbrowser/google-drive \
+  --config /home/lfp/.config/rclone/rclone.conf \
+  --read-only \
+  --drive-skip-gdocs \
+  --vfs-cache-mode off \
+  --vfs-refresh \
+  --vfs-read-chunk-size 1M \
+  --vfs-read-chunk-size-limit 16M \
+  --dir-cache-time 24h \
+  --attr-timeout 1m \
+  --poll-interval 1m \
+  --buffer-size 0 \
+  --contimeout 10s \
+  --timeout 1m \
+  --umask 077 \
+  --log-level INFO \
+  --stats 1m
+ExecStop=/usr/bin/fusermount3 -u /home/lfp/pdfbrowser/google-drive
+Restart=on-failure
+RestartSec=10
+TimeoutStopSec=30
+KillMode=mixed
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+LockPersonality=true
+UMask=0077
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

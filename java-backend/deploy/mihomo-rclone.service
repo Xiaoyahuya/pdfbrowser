@@ -1,0 +1,33 @@
+[Unit]
+Description=Loopback-only Mihomo proxy for Google Drive rclone
+Wants=network-online.target
+After=network-online.target
+Before=rclone-google-drive.service
+
+[Service]
+Type=simple
+User=lfp
+Group=lfp
+UMask=0077
+ExecStart=/usr/local/bin/mihomo -d /home/lfp/.config/mihomo -f /home/lfp/.config/mihomo/config.yaml
+Restart=on-failure
+RestartSec=5s
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/lfp/.config/mihomo
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+ProtectClock=true
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+RestrictNamespaces=true
+LockPersonality=true
+MemoryDenyWriteExecute=true
+CapabilityBoundingSet=
+AmbientCapabilities=
+SystemCallArchitectures=native
+
+[Install]
+WantedBy=multi-user.target

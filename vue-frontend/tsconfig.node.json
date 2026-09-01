@@ -1,0 +1,8 @@
+{
+  "extends": "@tsconfig/node24/tsconfig.json",
+  "include": ["vite.config.ts", "vitest.config.ts"],
+  "compilerOptions": {
+    "types": ["node"],
+    "noEmit": true
+  }
+}

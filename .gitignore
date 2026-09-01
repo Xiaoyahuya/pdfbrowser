@@ -1,0 +1,42 @@
+# Dependencies and build outputs
+/vue-frontend/node_modules/
+/vue-frontend/dist/
+/java-backend/target/
+/java-backend/.mvn/wrapper/maven-wrapper.jar
+/go-orchestrator/bin/
+/go-orchestrator/coverage.out
+/go-orchestrator/*.prof
+/go-orchestrator/*.trace
+/rust-pdf-engine/target/
+/rust-pdf-engine/*.profraw
+/rust-pdf-engine/flamegraph.svg
+
+# Deployment artifacts and secrets
+/java-backend/deploy/*.jar
+/java-backend/deploy/*.jar.*
+/java-backend/deploy/*.env
+!/java-backend/deploy/*.env.example
+/java-backend/deploy/.htpasswd*
+/java-backend/deploy/secure/
+
+# Runtime mounts, caches, and logs
+/google-drive/
+/nas-runtime/
+/rclone-cache/
+**/*.log
+
+# IDE and local state
+.idea/
+.vscode/
+.codex/
+*.iml
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# OS files
+.DS_Store
+Thumbs.db
