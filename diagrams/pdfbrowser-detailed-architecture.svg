@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="3000" viewBox="0 0 4500 3000">
+
+  <defs>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/></marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.08"/></filter>
+  </defs>
+<rect width="4500" height="3000" fill="#ffffff"/>
+<rect x="60" y="205" width="4380" height="900" rx="16" fill="#f5faff" fill-opacity="1" stroke="#74c0fc" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="60" y="1140" width="4380" height="760" rx="16" fill="#fbf9ff" fill-opacity="1" stroke="#9775fa" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="60" y="1940" width="4380" height="980" rx="16" fill="#fffdf5" fill-opacity="1" stroke="#f59f00" stroke-width="2"  filter="url(#shadow)"/>
+<polyline points="3040,82 3170,82" fill="none" stroke="#1971c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3520,82 3650,82" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="360,605 445,605" fill="none" stroke="#0b4f8a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="970,480 1090,480" fill="none" stroke="#1971c2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1090,835 1010,835 1010,730 970,730" fill="none" stroke="#1971c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="970,730 1780,730 1780,470 1875,470" fill="none" stroke="#0b4f8a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="970,865 1830,865 1830,520 1875,520" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="2865,527 3000,527" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2865,687 3000,687" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2865,885 2960,885 2960,837 3000,837" fill="none" stroke="#e67700" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3535,527 3690,527" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3535,687 3640,687 3640,735 3690,735" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3535,837 3600,837 3600,570 3690,570" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="707,650 707,1300" fill="none" stroke="#7048e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1580,690 1580,1260" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1380,1347 1480,1347" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1830,1347 1930,1347" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2190,1465 2190,1540" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1930,1350 900,1350 900,1460 870,1460" fill="none" stroke="#7048e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="520,1620 520,1665" fill="none" stroke="#c92a2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="2370,770 2370,1120 2810,1120 2810,1245" fill="none" stroke="#7048e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3010,1350 3140,1320" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3420,1510 3420,1460 2810,1460 2810,1455" fill="none" stroke="#7048e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2400,770 2400,1095 3820,1095 3820,1365 3860,1365" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="4075,1470 4075,1540" fill="none" stroke="#2b8a3e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="4075,1260 4075,1015 3265,1015 3265,930" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="360,2345 500,2277" fill="none" stroke="#e67700" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="740,2277 780,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1025,2277 1065,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1350,2277 1390,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1510,2345 1510,2380 945,2380 945,2410" fill="none" stroke="#c92a2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="1795,2277 2090,2277" fill="none" stroke="#e67700" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2370,2277 2410,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2655,2277 2695,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2940,2277 2980,2277" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3145,2345 3145,2380 2850,2380 2850,2420" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2530,2492 2450,2492" fill="none" stroke="#1971c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="2850,2492 2940,2492" fill="none" stroke="#1971c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3310,2277 3505,2277 3505,2340 3550,2340" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3285,2505 3490,2505 3490,2440 3550,2440" fill="none" stroke="#2b8a3e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="3550,2460 3360,2460 3360,2600 1660,2600" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="2730,1005 2865,1070 2865,1910 1820,1910 1820,2080" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="1030,2732 1130,2732" fill="none" stroke="#e67700" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1340,2715 1400,2715 1400,2705 1440,2705" fill="none" stroke="#2b8a3e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="1340,2750 1400,2750 1400,2815 1440,2815" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"  marker-end="url(#arrow-blue)"/>
+<polyline points="930,2785 930,2860 1875,2860 1875,2820" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<polyline points="1240,2785 1240,2880 1875,2880 1875,2820" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 10" marker-end="url(#arrow-blue)"/>
+<rect x="3000" y="45" width="1390" height="120" rx="16" fill="#ffffff" fill-opacity="1" stroke="#ced4da" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="4020" y="65" width="34" height="34" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3040" y="116" width="34" height="24" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3520" y="116" width="34" height="24" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<ellipse cx="232.5" cy="605" rx="127.5" ry="90" fill="#ffffff" stroke="#0b4f8a" stroke-width="2" />
+<rect x="445" y="315" width="525" height="650" rx="16" fill="#ffffff" fill-opacity="1" stroke="#0b4f8a" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="490" y="410" width="435" height="100" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="490" y="535" width="435" height="115" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="490" y="675" width="435" height="115" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="490" y="815" width="435" height="110" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1090" y="300" width="675" height="690" rx="16" fill="#ffffff" fill-opacity="1" stroke="#1971c2" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="1130" y="405" width="275" height="125" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1440" y="405" width="280" height="125" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1130" y="565" width="275" height="125" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1440" y="565" width="280" height="125" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1130" y="740" width="590" height="190" rx="16" fill="#f1f3f5" fill-opacity="1" stroke="#1f2937" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1875" y="270" width="990" height="735" rx="16" fill="#ffffff" fill-opacity="1" stroke="#0b4f8a" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="1915" y="385" width="280" height="170" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2230" y="385" width="280" height="170" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2545" y="385" width="280" height="170" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1915" y="600" width="280" height="170" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2230" y="600" width="280" height="170" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2545" y="600" width="280" height="170" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1915" y="815" width="280" height="140" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2230" y="815" width="280" height="140" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2545" y="815" width="280" height="140" rx="16" fill="#f1f3f5" fill-opacity="1" stroke="#1f2937" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3000" y="355" width="535" height="575" rx="16" fill="#ffffff" fill-opacity="1" stroke="#2b8a3e" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="3040" y="465" width="455" height="125" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3040" y="625" width="455" height="125" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3040" y="790" width="455" height="95" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3690" y="375" width="610" height="520" rx="16" fill="#ffffff" fill-opacity="1" stroke="#2b8a3e" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="3740" y="485" width="510" height="130" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3740" y="660" width="150" height="145" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3920" y="660" width="150" height="145" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="4100" y="660" width="150" height="145" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="170" y="1300" width="700" height="320" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="170" y="1665" width="700" height="155" rx="16" fill="#fff5f5" fill-opacity="1" stroke="#c92a2a" stroke-width="2" stroke-dasharray="12 9" filter="url(#shadow)"/>
+<rect x="1030" y="1260" width="350" height="175" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1480" y="1260" width="350" height="175" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1930" y="1240" width="520" height="225" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1260" y="1540" width="930" height="235" rx="16" fill="#f1f3f5" fill-opacity="1" stroke="#1f2937" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2610" y="1245" width="400" height="210" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3140" y="1195" width="560" height="245" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3140" y="1510" width="560" height="245" rx="16" fill="#f3f0ff" fill-opacity="1" stroke="#7048e8" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3860" y="1260" width="430" height="210" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3860" y="1540" width="430" height="190" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<ellipse cx="235" cy="2345" rx="125" ry="85" fill="#fff4e6" stroke="#e67700" stroke-width="2" />
+<rect x="455" y="2080" width="1395" height="570" rx="16" fill="#ffffff" fill-opacity="1" stroke="#e67700" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="500" y="2210" width="240" height="135" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="780" y="2210" width="245" height="135" rx="16" fill="#fff9db" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1065" y="2210" width="285" height="135" rx="16" fill="#fff9db" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1390" y="2210" width="405" height="135" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="780" y="2410" width="330" height="155" rx="16" fill="#fff5f5" fill-opacity="1" stroke="#c92a2a" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1160" y="2410" width="635" height="155" rx="16" fill="#f1f3f5" fill-opacity="1" stroke="#1f2937" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2090" y="2080" width="1270" height="570" rx="16" fill="#ffffff" fill-opacity="1" stroke="#e67700" stroke-width="3"  filter="url(#shadow)"/>
+<rect x="2135" y="2210" width="235" height="135" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2410" y="2210" width="245" height="135" rx="16" fill="#fff5f5" fill-opacity="1" stroke="#c92a2a" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2695" y="2210" width="245" height="135" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2980" y="2210" width="330" height="135" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<polygon points="2690,2420 2850,2492.5 2690,2565 2530,2492.5" fill="#fff9db" stroke="#e67700" stroke-width="2" />
+<rect x="2150" y="2430" width="300" height="155" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2940" y="2430" width="345" height="155" rx="16" fill="#e7f5ff" fill-opacity="1" stroke="#1971c2" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="3550" y="2185" width="720" height="310" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="820" y="2680" width="210" height="105" rx="16" fill="#fff9db" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1130" y="2680" width="210" height="105" rx="16" fill="#fff4e6" fill-opacity="1" stroke="#e67700" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1440" y="2660" width="225" height="90" rx="16" fill="#ebfbee" fill-opacity="1" stroke="#2b8a3e" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1440" y="2770" width="225" height="90" rx="16" fill="#fff5f5" fill-opacity="1" stroke="#c92a2a" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="1765" y="2715" width="225" height="105" rx="16" fill="#f1f3f5" fill-opacity="1" stroke="#1f2937" stroke-width="2"  filter="url(#shadow)"/>
+<rect x="2250" y="2710" width="1940" height="150" rx="16" fill="#fff5f5" fill-opacity="1" stroke="#c92a2a" stroke-width="2" stroke-dasharray="12 9" filter="url(#shadow)"/>
+<text x="90" y="88" font-family="Noto Sans CJK SC" font-size="46" font-weight="700" fill="#1f2937" text-anchor="start"><tspan x="90" dy="0">PDFBrowser：生产访问、凭据安全、远程存储与异步分析全景图</tspan></text>
+<text x="92" y="125" font-family="Noto Sans CJK SC" font-size="20" font-weight="400" fill="#5f6b7a" text-anchor="start"><tspan x="92" dy="0">基于仓库审计记录整合为一张可编辑 Excalidraw；实线表示当前链路，红色虚线表示尚未接通的目标链路。</tspan></text>
+<text x="3190" y="82" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="start"><tspan x="3190" dy="0">当前生产请求 / 数据流</tspan></text>
+<text x="3670" y="82" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="start"><tspan x="3670" dy="0">当前未接入 / 目标链路</tspan></text>
+<text x="4070" y="82" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="start"><tspan x="4070" dy="0">凭据与安全边界</tspan></text>
+<text x="3090" y="125" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="start"><tspan x="3090" dy="0">文件 / 远端存储</tspan></text>
+<text x="3570" y="125" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="start"><tspan x="3570" dy="0">异步任务与文档分析</tspan></text>
+<text x="90" y="255" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" fill="#74c0fc" text-anchor="start"><tspan x="90" dy="0">① 当前已运行的生产主链</tspan></text>
+<text x="90" y="281" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#5f6b7a" text-anchor="start"><tspan x="90" dy="0">浏览器只看到 Nginx；Vue 与 Spring 通过统一入口工作，Spring 把远程文件系统当作普通 Linux 文件读取。</tspan></text>
+<text x="232.5" y="552" font-family="Noto Sans CJK SC" font-size="23" font-weight="700" fill="#0b4f8a" text-anchor="middle"><tspan x="232.5" dy="0">浏览器用户</tspan></text>
+<text x="232.5" y="580.05" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="232.5" dy="0">HTTPS 访问</tspan><tspan x="232.5" dy="20.48">文件浏览 / 预览</tspan><tspan x="232.5" dy="20.48">挂载管理 / 改密</tspan></text>
+<text x="707.5" y="360" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#0b4f8a" text-anchor="middle"><tspan x="707.5" dy="0">Nginx 安全入口</tspan></text>
+<text x="707.5" y="385" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="707.5" dy="0">公网 :18880 · HTTPS</tspan></text>
+<text x="707.5" y="444" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="707.5" dy="0">TLS 终止</tspan></text>
+<text x="707.5" y="469" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="707.5" dy="0">统一 HTTPS 入口</tspan></text>
+<text x="707.5" y="569" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="707.5" dy="0">Basic Auth</tspan></text>
+<text x="707.5" y="594" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="707.5" dy="0">auth_basic &quot;PDF Browser&quot;</tspan></text>
+<text x="707.5" y="709" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="707.5" dy="0">反向代理</tspan></text>
+<text x="707.5" y="734" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="707.5" dy="0">静态 Vue + /api/* → Spring</tspan></text>
+<text x="707.5" y="849" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="707.5" dy="0">身份透传</tspan></text>
+<text x="707.5" y="874" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="707.5" dy="0">X-Authenticated-User = $remote_user</tspan></text>
+<text x="1427.5" y="345" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="1427.5" dy="0">Vue 前端</tspan></text>
+<text x="1427.5" y="370" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="1427.5" dy="0">交互与预览 · 所有 HTTP 调用集中在 api.ts</tspan></text>
+<text x="1267.5" y="439" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="1267.5" dy="0">VueFinder</tspan></text>
+<text x="1267.5" y="464" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1267.5" dy="0">目录 / 搜索 / 上传</tspan><tspan x="1267.5" dy="17.92">双击打开文件</tspan></text>
+<text x="1580" y="439" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="1580" dy="0">PreviewPane</tspan></text>
+<text x="1580" y="464" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1580" dy="0">PdfPreview(PDF.js)</tspan><tspan x="1580" dy="17.92">MarkdownPreview</tspan></text>
+<text x="1267.5" y="599" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="1267.5" dy="0">NasMountPanel</tspan></text>
+<text x="1267.5" y="624" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1267.5" dy="0">SMB / WebDAV / Drive</tspan><tspan x="1267.5" dy="17.92">创建、连接、删除</tspan></text>
+<text x="1580" y="599" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="1580" dy="0">PasswordChangePanel</tspan></text>
+<text x="1580" y="624" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1580" dy="0">旧密码 + 新密码</tspan><tspan x="1580" dy="17.92">安全动作 Header</tspan></text>
+<text x="1425" y="774" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1f2937" text-anchor="middle"><tspan x="1425" dy="0">api.ts</tspan></text>
+<text x="1425" y="800" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1425" dy="0">Files: list · search · capabilities · upload</tspan><tspan x="1425" dy="19.2">Preview: markdown · raw (Range)</tspan><tspan x="1425" dy="19.2">NAS: mounts · connect · delete · files</tspan><tspan x="1425" dy="19.2">Account: POST /api/account/password</tspan></text>
+<text x="2370" y="315" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#0b4f8a" text-anchor="middle"><tspan x="2370" dy="0">Spring Boot 后端</tspan></text>
+<text x="2370" y="340" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="2370" dy="0">业务边界 :18082 · 无传统 users 表 / 无关系型数据库</tspan></text>
+<text x="2055" y="419" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="2055" dy="0">FileBrowserController</tspan></text>
+<text x="2055" y="444" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2055" dy="0">GET /api/files[/search]</tspan><tspan x="2055" dy="17.92">GET /markdown · /raw</tspan><tspan x="2055" dy="17.92">POST /upload</tspan></text>
+<text x="2370" y="419" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="2370" dy="0">NasController</tspan></text>
+<text x="2370" y="444" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2370" dy="0">GET/POST /api/nas/mounts</tspan><tspan x="2370" dy="17.92">POST /{id}/connect</tspan><tspan x="2370" dy="17.92">DELETE /{id}</tspan></text>
+<text x="2685" y="419" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="2685" dy="0">AccountController</tspan></text>
+<text x="2685" y="444" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2685" dy="0">POST /api/account/password</tspan><tspan x="2685" dy="17.92">确认 HTTPS / 动作 Header</tspan><tspan x="2685" dy="17.92">读取当前用户名</tspan></text>
+<text x="2055" y="634" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="2055" dy="0">FileBrowserService</tspan></text>
+<text x="2055" y="659" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2055" dy="0">路径解析 / 列表 / 搜索</tspan><tspan x="2055" dy="17.92">普通文件读取</tspan><tspan x="2055" dy="17.92">受 PDFBROWSER_ROOT 控制</tspan></text>
+<text x="2370" y="634" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="2370" dy="0">NAS Services</tspan></text>
+<text x="2370" y="659" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2370" dy="0">NasMountService</tspan><tspan x="2370" dy="17.92">NasFileBrowserService</tspan><tspan x="2370" dy="17.92">校验 / 挂载 / 浏览</tspan></text>
+<text x="2685" y="634" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="2685" dy="0">AccountPasswordService</tspan></text>
+<text x="2685" y="659" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2685" dy="0">读取 htpasswd</tspan><tspan x="2685" dy="17.92">BCrypt 校验与编码</tspan><tspan x="2685" dy="17.92">临时文件 + atomic move</tspan></text>
+<text x="2055" y="849" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="2055" dy="0">Range Reader</tspan></text>
+<text x="2055" y="873" font-family="Noto Sans CJK SC" font-size="13" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2055" dy="0">解析 Range Header</tspan><tspan x="2055" dy="16.64">SeekableByteChannel.position(start)</tspan><tspan x="2055" dy="16.64">返回 206 Partial Content</tspan></text>
+<text x="2370" y="849" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="2370" dy="0">NasCredentialCipher</tspan></text>
+<text x="2370" y="874" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2370" dy="0">AES-256-GCM</tspan><tspan x="2370" dy="17.92">随机 12-byte IV</tspan></text>
+<text x="2685" y="849" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1f2937" text-anchor="middle"><tspan x="2685" dy="0">配置边界</tspan></text>
+<text x="2685" y="873" font-family="Noto Sans CJK SC" font-size="13" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2685" dy="0">PDFBROWSER_ROOT</tspan><tspan x="2685" dy="16.64">PDFBROWSER_NAS_RUNTIME</tspan><tspan x="2685" dy="16.64">PDFBROWSER_HTPASSWD_FILE</tspan></text>
+<text x="3267.5" y="400" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3267.5" dy="0">Linux 文件系统 / rclone</tspan></text>
+<text x="3267.5" y="425" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="3267.5" dy="0">Spring 只做文件 I/O，不直接调用云盘 API</tspan></text>
+<text x="3267.5" y="499" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3267.5" dy="0">固定 Google Drive 根</tspan></text>
+<text x="3267.5" y="524" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3267.5" dy="0">/home/lfp/pdfbrowser/google-drive</tspan><tspan x="3267.5" dy="17.92">rclone FUSE · read-only</tspan></text>
+<text x="3267.5" y="659" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3267.5" dy="0">动态挂载根</tspan></text>
+<text x="3267.5" y="684" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3267.5" dy="0">nas-runtime/mounts/{id}</tspan><tspan x="3267.5" dy="17.92">SMB / WebDAV / Google Drive</tspan></text>
+<text x="3267.5" y="824" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="3267.5" dy="0">rclone FUSE</tspan></text>
+<text x="3267.5" y="849" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3267.5" dy="0">按需取块 · 远端访问</tspan></text>
+<text x="3995" y="420" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3995" dy="0">远程真实数据</tspan></text>
+<text x="3995" y="445" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="3995" dy="0">文件本体不保存在应用数据库</tspan></text>
+<text x="3995" y="521" font-family="Noto Sans CJK SC" font-size="22" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3995" dy="0">Google Drive</tspan></text>
+<text x="3995" y="547.7" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3995" dy="0">固定只读主存储</tspan><tspan x="3995" dy="19.2">rclone mount gdrive:</tspan></text>
+<text x="3815" y="694" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3815" dy="0">SMB</tspan></text>
+<text x="3815" y="719" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3815" dy="0">动态挂载</tspan><tspan x="3815" dy="17.92">Range 读取</tspan></text>
+<text x="3995" y="694" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3995" dy="0">WebDAV</tspan></text>
+<text x="3995" y="719" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3995" dy="0">动态挂载</tspan><tspan x="3995" dy="17.92">Range 读取</tspan></text>
+<text x="4175" y="694" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="4175" dy="0">Drive</tspan></text>
+<text x="4175" y="719" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="4175" dy="0">动态挂载</tspan><tspan x="4175" dy="17.92">Range 读取</tspan></text>
+<text x="2180" y="1035" font-family="Noto Sans CJK SC" font-size="17" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="2180" dy="0">部署关系：rclone-google-drive.service 先挂载 → Java systemd 服务启动；Java 需要写 nas-runtime 与 /etc/nginx/pdfbrowser-auth。</tspan></text>
+<text x="90" y="1190" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" fill="#9775fa" text-anchor="start"><tspan x="90" dy="0">② 凭据、密码修改与持久化边界</tspan></text>
+<text x="90" y="1216" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#5f6b7a" text-anchor="start"><tspan x="90" dy="0">网站登录密码是不可逆 BCrypt；远程存储密码是可逆 AES-GCM 密文，密钥与密文分离。两者都只应存在于部署服务器。</tspan></text>
+<text x="520" y="1335" font-family="Noto Sans CJK SC" font-size="21" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="520" dy="0">/etc/nginx/pdfbrowser-auth/htpasswd</tspan></text>
+<text x="520" y="1362.35" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="520" dy="0">每行：username : BCrypt hash</tspan><tspan x="520" dy="20.48">用户名明文；密码不保存明文</tspan><tspan x="520" dy="20.48">BCrypt strength = 12</tspan><tspan x="520" dy="20.48">默认可由 PDFBROWSER_HTPASSWD_FILE 覆盖</tspan></text>
+<text x="520" y="1697" font-family="Noto Sans CJK SC" font-size="18" font-weight="700" fill="#c92a2a" text-anchor="middle"><tspan x="520" dy="0">仓库中的初始文件</tspan></text>
+<text x="520" y="1721.3" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="520" dy="0">java-backend/deploy/.htpasswd-pdfbrowser</tspan><tspan x="520" dy="17.92">被 /java-backend/deploy/.htpasswd* 忽略；GitHub 不含真实文件</tspan></text>
+<text x="1205" y="1294" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="1205" dy="0">1 · 前端提交</tspan></text>
+<text x="1205" y="1319" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1205" dy="0">旧密码 + 新密码</tspan><tspan x="1205" dy="17.92">X-PDFBrowser-Action:</tspan><tspan x="1205" dy="17.92">password-change</tspan></text>
+<text x="1655" y="1294" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="1655" dy="0">2 · Controller 门禁</tspan></text>
+<text x="1655" y="1319" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1655" dy="0">必须 HTTPS</tspan><tspan x="1655" dy="17.92">动作 Header 正确</tspan><tspan x="1655" dy="17.92">用户名来自 Nginx</tspan></text>
+<text x="2190" y="1274" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="2190" dy="0">3 · AccountPasswordService</tspan></text>
+<text x="2190" y="1300" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2190" dy="0">读取当前行 → BCrypt.matches(old, hash)</tspan><tspan x="2190" dy="19.2">正确：BCrypt.encode(new)</tspan><tspan x="2190" dy="19.2">错误：返回“当前密码不正确”</tspan></text>
+<text x="1725" y="1574" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1f2937" text-anchor="middle"><tspan x="1725" dy="0">安全写回</tspan></text>
+<text x="1725" y="1601" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1725" dy="0">保留其他用户行 → 写临时文件 → atomic move 覆盖 htpasswd</tspan><tspan x="1725" dy="20.48">结果：Nginx 下一次 Basic Auth 直接使用新哈希；无法从旧哈希还原原密码</tspan></text>
+<text x="2810" y="1282" font-family="Noto Sans CJK SC" font-size="23" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="2810" dy="0">AES-256-GCM</tspan></text>
+<text x="2810" y="1309.05" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2810" dy="0">NasCredentialCipher</tspan><tspan x="2810" dy="19.2">随机 12-byte IV</tspan><tspan x="2810" dy="19.2">输出：IV.ciphertext</tspan></text>
+<text x="3420" y="1230" font-family="Noto Sans CJK SC" font-size="21" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3420" dy="0">nas-runtime/mounts.json</tspan></text>
+<text x="3420" y="1256.35" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3420" dy="0">保存挂载元数据与加密后的 secret</tspan><tspan x="3420" dy="19.2">运行目录由 PDFBROWSER_NAS_RUNTIME 控制</tspan><tspan x="3420" dy="19.2">没有密钥时不能直接解出远程密码</tspan></text>
+<text x="3420" y="1543" font-family="Noto Sans CJK SC" font-size="19" font-weight="700" fill="#7048e8" text-anchor="middle"><tspan x="3420" dy="0">java-backend/deploy/pdfbrowser.env</tspan></text>
+<text x="3420" y="1567.65" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3420" dy="0">PDFBROWSER_NAS_CREDENTIAL_KEY</tspan><tspan x="3420" dy="17.92">Base64 编码的 32-byte 主密钥</tspan><tspan x="3420" dy="17.92">首次部署：openssl rand -base64 32</tspan><tspan x="3420" dy="17.92">权限 0600；实际文件被 gitignore</tspan></text>
+<text x="4075" y="1294" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="4075" dy="0">临时 rclone config</tspan></text>
+<text x="4075" y="1320" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="4075" dy="0">由 NasMountService 生成</tspan><tspan x="4075" dy="19.2">权限 0600</tspan><tspan x="4075" dy="19.2">连接远端后形成 FUSE 挂载</tspan></text>
+<text x="4075" y="1574" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="4075" dy="0">nas-runtime/</tspan></text>
+<text x="4075" y="1600" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="4075" dy="0">mounts/ · configs/ · logs/</tspan><tspan x="4075" dy="19.2">动态挂载与运行痕迹</tspan><tspan x="4075" dy="19.2">文件本体仍在远端</tspan></text>
+<text x="3390" y="1806" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="3390" dy="0">持久化总览：账户 → htpasswd；远程挂载 → mounts.json；主密钥 → pdfbrowser.env；主文件 → Google Drive / NAS。</tspan></text>
+<text x="90" y="1990" font-family="Noto Sans CJK SC" font-size="30" font-weight="700" fill="#f59f00" text-anchor="start"><tspan x="90" dy="0">③ 仓库内的 Go → Rust 异步分析子系统</tspan></text>
+<text x="90" y="2016" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#5f6b7a" text-anchor="start"><tspan x="90" dy="0">该子系统自身链路完整，但当前 Vue / Spring / Nginx 生产部署没有实际接线；红色虚线明确标出这一断点。</tspan></text>
+<text x="235" y="2294" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="235" dy="0">独立 Client</tspan></text>
+<text x="235" y="2320" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="235" dy="0">直接调用 Go API</tspan><tspan x="235" dy="19.2">（不是当前网页主链）</tspan></text>
+<text x="1152.5" y="2125" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="1152.5" dy="0">Go Orchestrator :8091</tspan></text>
+<text x="1152.5" y="2150" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="1152.5" dy="0">有界队列 + 固定 Worker + 超时 / 取消 + 内存 Task Store</tspan></text>
+<text x="620" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="620" dy="0">POST /v1/tasks</tspan></text>
+<text x="620" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="620" dy="0">创建 taskId</tspan><tspan x="620" dy="17.92">返回 QUEUED</tspan></text>
+<text x="902.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="902.5" dy="0">Store.Create</tspan></text>
+<text x="902.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="902.5" dy="0">先写任务状态</tspan><tspan x="902.5" dy="17.92">status = QUEUED</tspan></text>
+<text x="1207.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="1207.5" dy="0">Buffered Channel</tspan></text>
+<text x="1207.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1207.5" dy="0">queue capacity = 64</tspan><tspan x="1207.5" dy="17.92">满时 ErrQueueFull</tspan></text>
+<text x="1592.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="1592.5" dy="0">4 个固定 Workers</tspan></text>
+<text x="1592.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1592.5" dy="0">取队列任务 → Store.Start</tspan><tspan x="1592.5" dy="17.92">防止无限 goroutine / OOM</tspan></text>
+<text x="945" y="2442" font-family="Noto Sans CJK SC" font-size="18" font-weight="700" fill="#c92a2a" text-anchor="middle"><tspan x="945" dy="0">Task Store（内存 map）</tspan></text>
+<text x="945" y="2466.3" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="945" dy="0">sync.RWMutex + map[id]Task</tspan><tspan x="945" dy="17.92">Go 重启后状态丢失</tspan></text>
+<text x="1477.5" y="2443" font-family="Noto Sans CJK SC" font-size="19" font-weight="700" fill="#1f2937" text-anchor="middle"><tspan x="1477.5" dy="0">执行语义</tspan></text>
+<text x="1477.5" y="2467.65" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1477.5" dy="0">每个任务 context timeout = 30s；支持 cancel</tspan><tspan x="1477.5" dy="17.92">Cancellation wins：晚到的 Rust 结果不能把 CANCELLED 改回 SUCCEEDED</tspan></text>
+<text x="2725" y="2125" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="2725" dy="0">Rust PDF Engine :8092</tspan></text>
+<text x="2725" y="2150" font-family="Noto Sans CJK SC" font-size="15" font-weight="400" fill="#5f6b7a" text-anchor="middle"><tspan x="2725" dy="0">Axum + Tokio I/O + 安全路径解析 + CPU 阻塞工作隔离</tspan></text>
+<text x="2252.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="2252.5" dy="0">POST /v1/analyze</tspan></text>
+<text x="2252.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2252.5" dy="0">Axum Router</tspan><tspan x="2252.5" dy="17.92">api::analyze</tspan></text>
+<text x="2532.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#c92a2a" text-anchor="middle"><tspan x="2532.5" dy="0">path_guard</tspan></text>
+<text x="2532.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2532.5" dy="0">限制在 DOC_ROOT</tspan><tspan x="2532.5" dy="17.92">拒绝路径逃逸</tspan></text>
+<text x="2817.5" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="2817.5" dy="0">tokio::fs::read</tspan></text>
+<text x="2817.5" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2817.5" dy="0">异步读取文件</tspan><tspan x="2817.5" dy="17.92">得到 bytes</tspan></text>
+<text x="3145" y="2244" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="3145" dy="0">spawn_blocking</tspan></text>
+<text x="3145" y="2269" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3145" dy="0">把 CPU/解析工作移出</tspan><tspan x="3145" dy="17.92">异步运行时核心线程</tspan></text>
+<text x="2690" y="2453" font-family="Noto Sans CJK SC" font-size="19" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="2690" dy="0">文档类型？</tspan></text>
+<text x="2690" y="2477.65" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2690" dy="0">PDF  /  Markdown</tspan></text>
+<text x="2300" y="2464" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="2300" dy="0">analyze_pdf</tspan></text>
+<text x="2300" y="2489" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="2300" dy="0">Header / 版本 / 字节数</tspan><tspan x="2300" dy="17.92">近似页数 / 简单标题</tspan></text>
+<text x="3112.5" y="2464" font-family="Noto Sans CJK SC" font-size="20" font-weight="700" fill="#1971c2" text-anchor="middle"><tspan x="3112.5" dy="0">analyze_markdown</tspan></text>
+<text x="3112.5" y="2489" font-family="Noto Sans CJK SC" font-size="14" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3112.5" dy="0">标题 / 链接 / 代码块</tspan><tspan x="3112.5" dy="17.92">行数 / 词数 / 摘要</tspan></text>
+<text x="3910" y="2226" font-family="Noto Sans CJK SC" font-size="27" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="3910" dy="0">DOC_ROOT</tspan></text>
+<text x="3910" y="2255.45" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3910" dy="0">Rust 只允许在根目录内解析路径</tspan><tspan x="3910" dy="20.48">读取 PDF / Markdown → 返回 JSON result</tspan><tspan x="3910" dy="20.48"></tspan><tspan x="3910" dy="20.48">目标结果链：Worker → Store.Complete</tspan><tspan x="3910" dy="20.48">状态 SUCCEEDED / FAILED / CANCELLED</tspan></text>
+<text x="490" y="2731" font-family="Noto Sans CJK SC" font-size="21" font-weight="700" fill="#e67700" text-anchor="start"><tspan x="490" dy="0">Go Task 状态机</tspan></text>
+<text x="925" y="2712" font-family="Noto Sans CJK SC" font-size="18" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="925" dy="0">QUEUED</tspan></text>
+<text x="925" y="2735.3" font-family="Noto Sans CJK SC" font-size="13" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="925" dy="0">已入队</tspan></text>
+<text x="1235" y="2712" font-family="Noto Sans CJK SC" font-size="18" font-weight="700" fill="#e67700" text-anchor="middle"><tspan x="1235" dy="0">RUNNING</tspan></text>
+<text x="1235" y="2735.3" font-family="Noto Sans CJK SC" font-size="13" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1235" dy="0">Worker 执行</tspan></text>
+<text x="1552.5" y="2691" font-family="Noto Sans CJK SC" font-size="17" font-weight="700" fill="#2b8a3e" text-anchor="middle"><tspan x="1552.5" dy="0">SUCCEEDED</tspan></text>
+<text x="1552.5" y="2712.95" font-family="Noto Sans CJK SC" font-size="12" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1552.5" dy="0">完成</tspan></text>
+<text x="1552.5" y="2801" font-family="Noto Sans CJK SC" font-size="17" font-weight="700" fill="#c92a2a" text-anchor="middle"><tspan x="1552.5" dy="0">FAILED</tspan></text>
+<text x="1552.5" y="2822.95" font-family="Noto Sans CJK SC" font-size="12" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1552.5" dy="0">错误 / 超时</tspan></text>
+<text x="1877.5" y="2746" font-family="Noto Sans CJK SC" font-size="17" font-weight="700" fill="#1f2937" text-anchor="middle"><tspan x="1877.5" dy="0">CANCELLED</tspan></text>
+<text x="1877.5" y="2767.95" font-family="Noto Sans CJK SC" font-size="12" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="1877.5" dy="0">Queued 或 Running</tspan><tspan x="1877.5" dy="15.36">均可取消</tspan></text>
+<text x="3220" y="2745" font-family="Noto Sans CJK SC" font-size="21" font-weight="700" fill="#c92a2a" text-anchor="middle"><tspan x="3220" dy="0">仓库现状与自然下一步</tspan></text>
+<text x="3220" y="2772.35" font-family="Noto Sans CJK SC" font-size="16" font-weight="400" fill="#1f2937" text-anchor="middle"><tspan x="3220" dy="0">当前生产主链：Browser → Nginx → Vue/Spring → rclone/FUSE → Google Drive/NAS</tspan><tspan x="3220" dy="20.48">独立分析链：Client → Go → Rust → DOC_ROOT。若要合流，核心工作是补 Spring 任务边界、持久化状态、Go 调用与前端状态反馈。</tspan></text>
+<rect x="335" y="540" width="135" height="47" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="975" y="425" width="110" height="29.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="925" y="850" width="175" height="29.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="1280" y="675" width="330" height="49.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="1200" y="875" width="500" height="29.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="3470" y="925" width="560" height="29.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="555" y="1080" width="305" height="29.5" rx="16" fill="#fbf9ff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="920" y="1370" width="400" height="29.5" rx="16" fill="#fbf9ff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="2440" y="1145" width="320" height="29.5" rx="16" fill="#fbf9ff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="2860" y="1470" width="380" height="29.5" rx="16" fill="#fbf9ff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="3530" y="985" width="430" height="29.5" rx="16" fill="#ffffff" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="1840" y="2205" width="210" height="29.5" rx="16" fill="#fffdf5" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="3030" y="2565" width="430" height="29.5" rx="16" fill="#fffdf5" fill-opacity="0.96" stroke="#dbe4ee" stroke-width="1"  filter="url(#shadow)"/>
+<rect x="1835" y="1845" width="1020" height="33.25" rx="16" fill="#fff5f5" fill-opacity="0.96" stroke="#ffc9c9" stroke-width="1"  filter="url(#shadow)"/>
+<text x="402.5" y="560" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#0b4f8a" text-anchor="middle"><tspan x="402.5" dy="0">HTTPS</tspan><tspan x="402.5" dy="17.5">:18880</tspan></text>
+<text x="1030" y="445" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#1971c2" text-anchor="middle"><tspan x="1030" dy="0">静态应用</tspan></text>
+<text x="1012.5" y="870" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#1971c2" text-anchor="middle"><tspan x="1012.5" dy="0">API / Range 请求</tspan></text>
+<text x="1445" y="696" font-family="Noto Sans CJK SC" font-size="15" font-weight="600" fill="#0b4f8a" text-anchor="middle"><tspan x="1445" dy="0">/api/* 反向代理</tspan><tspan x="1445" dy="18.75">Basic Auth 已通过</tspan></text>
+<text x="1450" y="895" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#7048e8" text-anchor="middle"><tspan x="1450" dy="0">X-Authenticated-User 传给 Spring</tspan></text>
+<text x="3750" y="945" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#e67700" text-anchor="middle"><tspan x="3750" dy="0">PDF.js: Range bytes=… → rclone 分块获取 → 206</tspan></text>
+<text x="707.5" y="1100" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#7048e8" text-anchor="middle"><tspan x="707.5" dy="0">登录时读取并校验 BCrypt</tspan></text>
+<text x="1120" y="1390" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#7048e8" text-anchor="middle"><tspan x="1120" dy="0">读旧哈希 / 写新哈希（原子替换）</tspan></text>
+<text x="2600" y="1165" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#7048e8" text-anchor="middle"><tspan x="2600" dy="0">validate(secret) → encrypt</tspan></text>
+<text x="3050" y="1490" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#7048e8" text-anchor="middle"><tspan x="3050" dy="0">32-byte key（仅服务器本地）</tspan></text>
+<text x="3745" y="1005" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#e67700" text-anchor="middle"><tspan x="3745" dy="0">启动 rclone → nas-runtime/mounts/{id}</tspan></text>
+<text x="1945" y="2225" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#e67700" text-anchor="middle"><tspan x="1945" dy="0">RustClient.Process</tspan></text>
+<text x="3245" y="2585" font-family="Noto Sans CJK SC" font-size="14" font-weight="600" fill="#e67700" text-anchor="middle"><tspan x="3245" dy="0">JSON result → Store.Complete</tspan></text>
+<text x="2345" y="1868" font-family="Noto Sans CJK SC" font-size="17" font-weight="600" fill="#c92a2a" text-anchor="middle"><tspan x="2345" dy="0">当前断点：没有 Spring→Go Client / Outbox / Task DB / 回调 / SSE-WebSocket 状态通道</tspan></text>
+</svg>

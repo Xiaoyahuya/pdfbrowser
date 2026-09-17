@@ -6,14 +6,22 @@
     }
   ],
   "settings": {
-    "java.jdt.ls.java.home": "/usr/lib/jvm/java-21-openjdk-amd64",
+    "java.jdt.ls.java.home": "/home/lfp/.sdkman/candidates/java/17.0.12-tem",
+    "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-17",
+        "path": "/home/lfp/.sdkman/candidates/java/17.0.12-tem",
+        "default": true
+      }
+    ],
     "java.configuration.updateBuildConfiguration": "automatic",
+    "go.useLanguageServer": true,
     "go.alternateTools": {
       "go": "/usr/local/go/bin/go",
       "gopls": "/home/lfp/go/bin/gopls"
     },
     "terminal.integrated.env.linux": {
-      "PATH": "/home/lfp/.nvm/versions/node/v24.18.1/bin:/usr/local/go/bin:/home/lfp/go/bin:/home/lfp/.cargo/bin:${env:PATH}",
+      "PATH": "/usr/local/go/bin:/home/lfp/go/bin:/home/lfp/.cargo/bin:${env:PATH}",
       "HTTP_PROXY": "http://127.0.0.1:17897",
       "HTTPS_PROXY": "http://127.0.0.1:17897",
       "NO_PROXY": "127.0.0.1,localhost"
@@ -21,8 +29,10 @@
     "rust-analyzer.linkedProjects": [
       "rust-pdf-engine/Cargo.toml"
     ],
-    "rust-analyzer.cargo.noDeps": true,
+    "rust-analyzer.cargo.noDeps": false,
     "rust-analyzer.restartServerOnConfigChange": true,
+    "typescript.tsdk": "vue-frontend/node_modules/typescript/lib",
+    "editor.multiCursorModifier": "alt",
     "rust-analyzer.cargo.extraEnv": {
       "HTTP_PROXY": "http://127.0.0.1:17897",
       "HTTPS_PROXY": "http://127.0.0.1:17897",

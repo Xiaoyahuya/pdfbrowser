@@ -27,7 +27,6 @@
 
 # IDE and local state
 .idea/
-.vscode/
 .codex/
 *.iml
 .classpath
@@ -40,3 +39,5 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+start-dev.sh

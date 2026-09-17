@@ -4,8 +4,12 @@ import zhCN from 'vuefinder/dist/locales/zhCN.js'
 import App from './App.vue'
 import 'vuefinder/dist/vuefinder.css'
 import './styles.css'
+import router from './router'
 
 const app = createApp(App)
+
+app.use(router)
+
 app.use(VueFinderPlugin, {
   locale: 'zhCN',
   i18n: { zhCN },

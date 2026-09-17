@@ -1,12 +1,39 @@
 spring:
   application:
     name: pdfbrowser-server
+  datasource:
+    url: jdbc:postgresql://${PDFBROWSER_DB_HOST:127.0.0.1}:${PDFBROWSER_DB_PORT:5432}/${PDFBROWSER_DB_NAME:postgres}
+    username: ${PDFBROWSER_DB_USER:postgres}
+    password: ${PDFBROWSER_DB_PASSWORD}
+  flyway:
+    enabled: ${PDFBROWSER_FLYWAY_ENABLED:true}
+    locations: classpath:db/migration
   servlet:
     multipart:
       max-file-size: ${PDFBROWSER_MAX_UPLOAD_BYTES:104857600}
       max-request-size: ${PDFBROWSER_MAX_UPLOAD_BYTES:104857600}
+  mail:
+    host: ${PDFBROWSER_SMTP_HOST:}
+    port: ${PDFBROWSER_SMTP_PORT:587}
+    username: ${PDFBROWSER_SMTP_USERNAME:}
+    password: ${PDFBROWSER_SMTP_PASSWORD:}
+    from: ${PDFBROWSER_SMTP_FROM:}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
 server:
   port: ${PORT:8082}
+  forward-headers-strategy: framework
+  servlet:
+    session:
+      cookie:
+        http-only: true
+        secure: ${PDFBROWSER_SESSION_COOKIE_SECURE:false}
+        same-site: ${PDFBROWSER_SESSION_COOKIE_SAME_SITE:lax}
+
 app:
   account:
     htpasswd-file: ${PDFBROWSER_HTPASSWD_FILE:/etc/nginx/pdfbrowser-auth/htpasswd}
@@ -29,3 +56,12 @@ app:
     mount-timeout-seconds: ${PDFBROWSER_NAS_MOUNT_TIMEOUT_SECONDS:20}
     socks-proxy-host: ${PDFBROWSER_NAS_SOCKS_HOST:127.0.0.1}
     socks-proxy-port: ${PDFBROWSER_NAS_SOCKS_PORT:7897}
+  auth:
+    verification:
+      code-validity-seconds: ${PDFBROWSER_CODE_VALIDITY_SECONDS:600}
+      resend-interval-seconds: ${PDFBROWSER_CODE_RESEND_INTERVAL_SECONDS:60}
+      max-attempts: ${PDFBROWSER_CODE_MAX_ATTEMPTS:5}
+      rate-limit:
+        window-seconds: ${PDFBROWSER_CODE_RATE_LIMIT_WINDOW_SECONDS:3600}
+        max-per-email: ${PDFBROWSER_CODE_RATE_LIMIT_EMAIL:5}
+        max-per-ip: ${PDFBROWSER_CODE_RATE_LIMIT_IP:20}

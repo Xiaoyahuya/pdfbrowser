@@ -66,8 +66,45 @@ export interface SearchResponse {
 }
 
 export interface ApiErrorBody {
+  status?: number
   code?: string
   message?: string
+  path?: string
+}
+
+export class ApiRequestError extends Error {
+  constructor(
+    message: string,
+    public readonly status: number,
+    public readonly code?: string,
+  ) {
+    super(message)
+    this.name = 'ApiRequestError'
+  }
+}
+
+export interface AuthUserResponse {
+  id: number
+  username: string
+  email: string
+  status: string
+}
+
+export interface VerificationCodeRequest {
+  email: string
+  purpose: 'REGISTER'
+}
+
+export interface RegisterRequest {
+  username: string
+  email: string
+  password: string
+  verificationCode: string
+}
+
+export interface LoginRequest {
+  login: string
+  password: string
 }
 
 export interface StorageCapabilities {

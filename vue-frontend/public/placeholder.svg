@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">PDF Browser abstract cover</title>
+  <desc id="desc">An abstract blue and slate gradient background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172554" />
+      <stop offset="0.52" stop-color="#1d4ed8" />
+      <stop offset="1" stop-color="#0f172a" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.2" cy="0.12" r="0.8">
+      <stop offset="0" stop-color="#93c5fd" stop-opacity="0.48" />
+      <stop offset="1" stop-color="#93c5fd" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#background)" />
+  <rect width="1200" height="1600" fill="url(#glow)" />
+  <path d="M-80 1240C230 970 450 980 640 1140s320 210 700-100v560H-80z" fill="#0b1120" fill-opacity="0.38" />
+  <path d="M-80 1380C260 1140 470 1180 690 1300s330 140 730-120v420H-80z" fill="#020617" fill-opacity="0.42" />
+</svg>
